@@ -1,0 +1,2 @@
+x <- "test"
+write.table(x, "&&file_name")
